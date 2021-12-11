@@ -8,4 +8,4 @@ stocks.sql file containes the cleaning, combining ,inspecting and analysis of th
 
 
 
-.................Thank You!!
+............................................................................................Thank You!!
